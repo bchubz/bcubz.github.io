@@ -21,3 +21,7 @@ a:hover
    color:black;
    text-decoration: none; 
 }
+.w3-panel w3-left w3-animate-zoom
+{
+    display: inline;
+}
